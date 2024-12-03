@@ -88,7 +88,7 @@ A: IBM, NVIDIA, Atom Computing
 A: They are making a move to cloud computing, so they are likely trying to capitalize off the fact that few people will have a quantum computer for the forseeable future and will charge people to use their machines, like a new age IBM.
 
 **Q: What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**  
-A: [Answer here]
+A: Algorithmic Qubits (#AQ), Gate Fidelity, Quantum Volume. They don't have the most qubits, but they're a relatively new company and the technology they use helps them excel in quantum volume and Gate Fidelity with the lowest error rates you can get by using trapped ions.
 
 **Q: How is your company performing relative to competitors in the same field?**  
 A: Atom Computing is up to 1000 bits. However, IonQ is building their systems on trapped ion systems which offer the lowest gate error rate of any quantum technology right now. This means that there will be fewer qubits dedicated to error correction which means more qubits and smaller machines. IonQ introduced the first commercial trapped ion quantum computer in Q4 2018. They are now up to 36 qubits. Google revealed its quantum processeor that consists of 53 qubits in 2019. So we can see that with less funding of a corporation like Google and having started so soon. IonQ is performing fairly competitively.
@@ -104,17 +104,14 @@ A: They should probably invest in their own data centers rather than partnering 
 A: I think they could elevate their bottomline and break even sooner. Like how OpenAI started subscription services for their ChatGPT product. 
 
 **Q: What technologies would this additional product or service utilize?**  
-A: [Answer here]
+A: If they were to invest in their own data centers, they would be the biggest buyers of their own product. They would need their quantum processors, and cloud computing platforms like AWS or Azure. 
 
 **Q: Why are these technologies appropriate for your solution?**  
-A: [Answer here]
-
-https://ionq.com/news/ionq-forte-launched-for-commercial-use-making-aq-29-available-for-customers
-
-https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/
-https://www.forbes.com/sites/moorinsights/2021/03/23/ionq-takes-quantum-computing-public-with-a-2-billion-deal/#:~:text=IonQ%20was%20founded%20in%202015,an%20option%20to%20go%20public.
-https://ionq.com/posts/how-does-quantum-machine-learning-work 
-"...the **go to** statement should be abolished..." [[1]](#1).
+A: It would make sense for the company to run its own datacenters since quantum computers require cryogenic cooling. By owning their own data centers they can ensure that the specs of the centers are set to allow for their computers to run optimally.
 
 ### References
-Source Name, [Link](https://example.com)
+IonQ Forte Launched For Commercial Use, Making #AQ 29 Available for Customers Worldwide, [Link](https://ionq.com/news/ionq-forte-launched-for-commercial-use-making-aq-29-available-for-customers)
+A Quantum Leap In AI: IonQ Aims To Create Quantum Machine Learning Models At The Level Of General Human Intelligence, [Link](https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/)
+IonQ Takes Quantum Computing Public With A $2 Billion Deal, [Link](https://www.forbes.com/sites/moorinsights/2021/03/23/ionq-takes-quantum-computing-public-with-a-2-billion-deal/#:~:text=IonQ%20was%20founded%20in%202015,an%20option%20to%20go%20public.)
+https://ionq.com/posts/how-does-quantum-machine-learning-work, [Link](https://ionq.com/posts/how-does-quantum-machine-learning-work )
+
