@@ -31,13 +31,14 @@ A: Harry Weller and Andrew Schoen
 A: Monroe and Kim's research partnership began with a Science Magazine review paper that combined Monroe's work on trapped ions with Kim's focus on scalable quantum information processing.
 
 **Q: How is the company funded? How much funding have they received?**  
+**Q
 A: Became the first publicly traded, pure-play quantum computing company when it IPO'd on the New York Stock Exchange in 2021 
 Partnering with Amazon Web Services and Microsoft to make its quantum computers accessible via the cloud .
 Founded using $2 million in seed funding from New Enterprise Associates.
 Between 2015 and 2018, IonQ raised an additional $20 million from Google Ventures, Amazon Web Services
 In 2019, under the guidance of a new CEO and president, Peter Chapman, IonQ raised another $55 million from notable investors that included Samsung, Lockheed Martin, Airbus Ventures, Bosch, Hewlett Packard, and Mubadala
 New Investments from Lockheed Martin, Robert Bosch Venture Capital GmbH (RBVC) and Cambium Brings Total Investment to $84M.
-**Q
+
 --
 
 ### Business Activities
