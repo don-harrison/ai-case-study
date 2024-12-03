@@ -15,7 +15,7 @@ Welcome to the **[Company Name]** repository! This document provides a comprehen
 
 --
 
-### 📖 Overview and Origin
+📖 ### Overview and Origin
 
 **Q: What is the name of the company?**  
 A: [Answer here]
@@ -34,7 +34,7 @@ A: [Answer here]
 
 --
 
-### ⚙️ Business Activities
+⚙️ ### Business Activities
 
 **Q: What specific problem is the company or project trying to solve?**  
 A: [Answer here]
@@ -50,7 +50,7 @@ A: [Answer here]
 
 --
 
-### 🌐 Landscape
+🌐 ### Landscape
 
 **Q: What field is the company in?**  
 A: [Answer here]
@@ -63,7 +63,7 @@ A: [Answer here]
 
 --
 
-### 📊 Results
+📊 ### Results
 
 **Q: What has been the business impact of this company so far?**  
 A: [Answer here]
@@ -76,7 +76,7 @@ A: [Answer here]
 
 --
 
-### 💡 Recommendations
+💡 ### Recommendations
 
 **Q: If you were to advise the company, what products or services would you suggest they offer?**  
 A: [Answer here]
