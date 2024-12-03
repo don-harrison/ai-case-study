@@ -4,7 +4,7 @@
 
 Welcome to the **IonQ** case study repository! This document provides a comprehensive overview of the company, its activities, and some recommendations. Dive into the sections below for detailed answers to key questions. 
 
---
+---
 
 ## 📝 Table of Contents
 
@@ -13,8 +13,8 @@ Welcome to the **IonQ** case study repository! This document provides a comprehe
 3. [Landscape](#landscape)
 4. [Results](#results)
 5. [Recommendations](#recommendations)
-
---
+5. [References](#references)
+---
 
 ### Overview and Origin
 
@@ -33,19 +33,20 @@ A: Monroe and Kim's research partnership began with a Science Magazine review pa
 **Q: How is the company funded? How much funding have they received?**  
 **Q
 A: Became the first publicly traded, pure-play quantum computing company when it IPO'd on the New York Stock Exchange in 2021 
-Partnering with Amazon Web Services and Microsoft to make its quantum computers accessible via the cloud .
-Founded using $2 million in seed funding from New Enterprise Associates.
-Between 2015 and 2018, IonQ raised an additional $20 million from Google Ventures, Amazon Web Services
-In 2019, under the guidance of a new CEO and president, Peter Chapman, IonQ raised another $55 million from notable investors that included Samsung, Lockheed Martin, Airbus Ventures, Bosch, Hewlett Packard, and Mubadala
-New Investments from Lockheed Martin, Robert Bosch Venture Capital GmbH (RBVC) and Cambium Brings Total Investment to $84M.
+Partnering with Amazon Web Services and Microsoft to make its quantum computers accessible via the cloud. 
+Founded using \$2 million in seed funding from New Enterprise Associates.
+Between 2015 and 2018, IonQ raised an additional \$20 million from Google Ventures, Amazon Web Services
+In 2019, under the guidance of a new CEO and president, Peter Chapman, IonQ raised another \$55 million from notable investors that included Samsung, Lockheed Martin, Airbus Ventures, Bosch, Hewlett Packard, and Mubadala
+New Investments from Lockheed Martin, Robert Bosch Venture Capital GmbH (RBVC) and Cambium Brings Total Investment to \$84M.
 
---
+---
 
 ### Business Activities
 
 **Q: What specific problem is the company or project trying to solve?**  
 A: IonQ is currently exploring better ways to load cargo or reduce fuel consumption with Airbus,  researching optimized lithium compounds in batteries with the Hyundai Motor Company, and more.
 IonQ in general is trying to solve the problem of how to further quantum computers scale and it can apply to cutting edge problems we have now.
+
 **Q: Who is the company's intended customer? Is there any information about the market size of this set of customers?**  
 A: Quantum developers, partners, researchers. 
 >"Airbus is deploying IonQ Forte to co-develop an aircraft loading optimization algorithm that utilizes 28 qubits to execute full variational optimization of a quantum circuit, the largest variational optimization performed on a QPU to date."
@@ -61,12 +62,12 @@ A: Quantum developers, partners, researchers.
 A: They are researching and constructing more advanced quantum computers in order to take advantage of quantum computing for applications in AI and Machine Learning.
 
 **Q: Which technologies are they currently using, and how are they implementing them?**  
-A: They have an array of products: IonQ Aria, IonQ Harmony, and IonQ Forte.
+A: They have an array of products: IonQ Aria, IonQ Harmony, and IonQ Forte. These products are limited to quantum computers of varying amounts of qbits. Aria has 25 algorithmic qbits (#AQ 25), Harmony has 11 algorithmic qubits (#AQ 11), Forte has 36 algorithmic qubits (#AQ 36).
 
 **Q: How can you get involved?**
 A: IonQ Aria and IonQ Harmony are cloud accessible via Google, Amazon Braket, Microsoft Azure and IonQ Quantum Cloud.
 
---
+---
 
 ### Landscape
 
@@ -77,9 +78,9 @@ A: Quantum Computing, Cloud Computing
 A: With quantum computing we can train models to recognize objects using fewer input parameters than classical approaches.
 
 **Q: What are the other major companies in this field?**  
-A: IBM, NVIDIA
+A: IBM, NVIDIA, Atom Computing
 
---
+---
 
 ### Results
 
@@ -90,17 +91,17 @@ A: They are making a move to cloud computing, so they are likely trying to capit
 A: [Answer here]
 
 **Q: How is your company performing relative to competitors in the same field?**  
-A: [Answer here]
+A: Atom Computing is up to 1000 bits. However, IonQ is building their systems on trapped ion systems which offer the lowest gate error rate of any quantum technology right now. This means that there will be fewer qubits dedicated to error correction which means more qubits and smaller machines. IonQ introduced the first commercial trapped ion quantum computer in Q4 2018. They are now up to 36 qubits. Google revealed its quantum processeor that consists of 53 qubits in 2019. So we can see that with less funding of a corporation like Google and having started so soon. IonQ is performing fairly competitively.
 
---
+---
 
 ### Recommendations
 
 **Q: If you were to advise the company, what products or services would you suggest they offer?**  
-A: [Answer here]
+A: They should probably invest in their own data centers rather than partnering with Dell to bring cloud computing hosting. That way they can charge industries to train AI models using their quantum computers or in the future begin to sell the quantum computers for training much like NVIDIA sells A100s.
 
 **Q: Why do you think that offering this product or service would benefit the company?**  
-A: [Answer here]
+A: I think they could elevate their bottomline and break even sooner. Like how OpenAI started subscription services for their ChatGPT product. 
 
 **Q: What technologies would this additional product or service utilize?**  
 A: [Answer here]
@@ -113,3 +114,7 @@ https://ionq.com/news/ionq-forte-launched-for-commercial-use-making-aq-29-availa
 https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/
 https://www.forbes.com/sites/moorinsights/2021/03/23/ionq-takes-quantum-computing-public-with-a-2-billion-deal/#:~:text=IonQ%20was%20founded%20in%202015,an%20option%20to%20go%20public.
 https://ionq.com/posts/how-does-quantum-machine-learning-work 
+"...the **go to** statement should be abolished..." [[1]](#1).
+
+### References
+Source Name, [Link](https://example.com)
