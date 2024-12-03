@@ -19,27 +19,32 @@ Welcome to the **IonQ** case study repository! This document provides a comprehe
 ### Overview and Origin
 
 **Q: What is the name of the company?**  
-A: [Answer here]
+A: IonQ
 
 **Q: When was the company incorporated?**  
-A: [Answer here]
+A: 2015
 
 **Q: Who are the founders of the company?**  
-A: [Answer here]
+A: Harry Weller and Andrew Schoen
 
 **Q: How did the idea for the company (or project) come about?**  
-A: [Answer here]
+A: Monroe and Kim's research partnership began with a Science Magazine review paper that combined Monroe's work on trapped ions with Kim's focus on scalable quantum information processing.
 
 **Q: How is the company funded? How much funding have they received?**  
-A: [Answer here].
+A: Became the first publicly traded, pure-play quantum computing company when it IPO'd on the New York Stock Exchange in 2021 
+Partnering with Amazon Web Services and Microsoft to make its quantum computers accessible via the cloud .
+Founded using $2 million in seed funding from New Enterprise Associates.
+Between 2015 and 2018, IonQ raised an additional $20 million from Google Ventures, Amazon Web Services
+In 2019, under the guidance of a new CEO and president, Peter Chapman, IonQ raised another $55 million from notable investors that included Samsung, Lockheed Martin, Airbus Ventures, Bosch, Hewlett Packard, and Mubadala
+New Investments from Lockheed Martin, Robert Bosch Venture Capital GmbH (RBVC) and Cambium Brings Total Investment to $84M.
 **Q
 --
 
 ### Business Activities
 
 **Q: What specific problem is the company or project trying to solve?**  
-A: Ionq is trying to use their quantum 
-
+A: IonQ is currently exploring better ways to load cargo or reduce fuel consumption with Airbus,  researching optimized lithium compounds in batteries with the Hyundai Motor Company, and more.
+IonQ in general is trying to solve the problem of how to further quantum computers scale and it can apply to cutting edge problems we have now.
 **Q: Who is the company's intended customer? Is there any information about the market size of this set of customers?**  
 A: Quantum developers, partners, researchers. 
 >"Airbus is deploying IonQ Forte to co-develop an aircraft loading optimization algorithm that utilizes 28 qubits to execute full variational optimization of a quantum circuit, the largest variational optimization performed on a QPU to date."
@@ -68,7 +73,7 @@ A: IonQ Aria and IonQ Harmony are cloud accessible via Google, Amazon Braket, Mi
 A: Quantum Computing, Cloud Computing
 
 **Q: What have been the major trends and innovations of this field over the last 5–10 years?**  
-A: [Answer here]
+A: With quantum computing we can train models to recognize objects using fewer input parameters than classical approaches.
 
 **Q: What are the other major companies in this field?**  
 A: IBM, NVIDIA
@@ -105,3 +110,5 @@ A: [Answer here]
 https://ionq.com/news/ionq-forte-launched-for-commercial-use-making-aq-29-available-for-customers
 
 https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/
+https://www.forbes.com/sites/moorinsights/2021/03/23/ionq-takes-quantum-computing-public-with-a-2-billion-deal/#:~:text=IonQ%20was%20founded%20in%202015,an%20option%20to%20go%20public.
+https://ionq.com/posts/how-does-quantum-machine-learning-work 
